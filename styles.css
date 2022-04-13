@@ -1,0 +1,66 @@
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg'); (under the Apache Software License). 
+    font-weight: 200;
+    font-style: italic;
+}
+
+body {
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content:center;
+    
+}
+
+.header {
+    width: 365px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    margin-bottom: 0;
+
+    
+}
+.informacion {
+    width: 365px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+     
+}
+.photo {
+    margin-bottom: 10px;
+
+} 
+.primera {
+
+  
+   
+
+  } 
+  .segundo {
+  margin: 0px;
+  float: right;
+  }
+  .tres {
+    float: right;
+  }
+  .iconos {
+    width: 365px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+  }
+.iconofinal{
+    float: right;
+
+}
+.megusta {
+    width: 365px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+}
